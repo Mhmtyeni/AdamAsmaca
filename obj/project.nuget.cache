@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPued2anaT+Dz+fR1YWknpphMzDKfHtGt/JDUpGjAmSB5va/8hAQ89fqfUwWFna0VAQHBL0tSjFWGuLnfcJGEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tugayo\\source\\repos\\AdamAsmaca\\AdamAsmaca\\AdamAsmaca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugayo\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
